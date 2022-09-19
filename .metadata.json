@@ -1,1 +1,6 @@
-[]
+[
+  {
+    "package": "litterfitter",
+    "oncran": true
+  }
+]
